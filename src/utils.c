@@ -1,4 +1,4 @@
-#include ../include/ethertrace.h
+#include "../include/ethertrace.h"
 
 //function to enable promiscuous mode 
 int set_promisc(const char *iface, bool enable){
