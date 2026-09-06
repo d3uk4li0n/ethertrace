@@ -1,4 +1,4 @@
-#include ethertrace.h 
+#include "ethertrace.h"
 
 #ifndef ETHERTRACE_UTILS_H
 #define ETHERTRACE_UTILS_H
